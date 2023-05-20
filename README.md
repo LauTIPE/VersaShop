@@ -25,7 +25,7 @@ Revisa el Wireframe de VersaShop : https://www.figma.com/file/Fz2Ilmts9hsuRB9fiy
 Instalación
 Clonar el repositorio: Primero necesitas clonar este repositorio en tu máquina local. Puedes hacerlo utilizando el siguiente comando en tu terminal:
 
-git clone https://github.com/tu-nombre-de-usuario/VersaShop.git
+git clone https://github.com/LauTipe/VersaShop.git
 
 Configurar el entorno de desarrollo: Asegúrate de tener Android Studio y Kotlin instalados en tu máquina. También deberías configurar una cuenta de Firebase para la gestión de la base de datos.
 
