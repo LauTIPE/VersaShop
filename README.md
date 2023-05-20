@@ -20,7 +20,7 @@
 
 - **Notificaciones push 🔔**: Mantén a tus clientes actualizados con las últimas noticias y ofertas.
 
-¡Echa un vistazo a nuestro wireframe en [Figma](./design.png)!
+¡Echa un vistazo a nuestro wireframe en [Figma](./desing.png)!
 
 
 ## 🛠️ Instalación
