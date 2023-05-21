@@ -42,6 +42,28 @@ Wireframe en [Figma](./desing.png)!
 ![Banner de VersaShop](./Banner.png)
 <img src="Logo.png" alt="Logo de VersaShop">
 
+## 🚀 Estado de Avance:
+Actualmente, hemos finalizado la fase de diseño y planificación de VersaShop, incluyendo la elaboración de mockups y la definición de la estructura de la base de datos y las principales características de la app. Hemos identificado una serie de problemas claves que nuestra app está diseñada para abordar, desde ayudar a los negocios locales a digitalizarse hasta promover la sostenibilidad y la inclusión digital. Nuestro próximo paso es comenzar a codificar nuestra app, poniendo en práctica todas las ideas y soluciones que hemos diseñado.
+
+## 📆 Plan de MVP:
+
+Nuestro objetivo para la próxima semana es desarrollar un MVP que incluya las siguientes características:
+
+1. **Interfaz de usuario básica**: Una interfaz de usuario que permita a los usuarios navegar por la app, ver la lista de tiendas y los detalles de los productos.
+
+2. **Catálogo de productos**: Capacidad para que las tiendas carguen y muestren sus productos en la app. Esto incluye el nombre del producto, una imagen, una descripción y el precio.
+
+3. **Funcionalidad de carrito de compras**: Permitir a los usuarios agregar productos a un carrito de compras y ver los detalles de su carrito.
+
+4. **Funcionalidad de autenticación de usuarios**: Permitir a los usuarios registrarse e iniciar sesión en la app. Este es un primer paso para funcionalidades posteriores como realizar una compra o dejar una reseña.
+
+5. **Integración con la base de datos**: Implementar la lógica necesaria para interactuar con la base de datos, para cosas como cargar productos desde la base de datos o actualizar el carrito de compras del usuario.
+
+6. **Splash Screen**: Diseñar e implementar una pantalla de inicio atractiva que se muestra cuando se lanza la app, mejorando la experiencia del usuario.
+
+Este MVP no será una versión completa de VersaShop, pero nos permitirá validar nuestras ideas básicas y recoger feedback temprano que nos ayudará a mejorar y ajustar nuestra app a medida que avanzamos.
+
+
 
 ## 🛠️ Instalación
 Queremos que poner en marcha VersaShop sea tan sencillo como comprar en ella. Sigue estos pasos:
