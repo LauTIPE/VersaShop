@@ -21,6 +21,7 @@
 - **Notificaciones push 🔔**: Mantén a tus clientes actualizados con las últimas noticias y ofertas.
 
 ¡Echa un vistazo a nuestro wireframe en [Figma](./desing.png)!
+![desing](https://github.com/LauTIPE/VersaShop/assets/92493205/c81c5ad6-c487-4c05-805a-659d12e70a19)
 
 
 ## 🛠️ Instalación
