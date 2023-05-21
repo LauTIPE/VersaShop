@@ -1,5 +1,13 @@
+# VersaShop
+VersaShop es una aplicación de comercio electrónico adaptable y genérica, diseñada con Kotlin para Android...
+
+...
+![Banner de VersaShop](./banner.png)  
+
+<img src="logo.png" alt="Logo de VersaShop">
 # VersaShop 🛍️: ¡Tu tienda favorita en la palma de tu mano! 📱
 
+Story telling:
 ¿Eres dueño de un negocio y buscas digitalizar tu tienda? ¿O simplemente un entusiasta del desarrollo Android buscando inspiración? ¡Bienvenido a VersaShop! Este es un proyecto de comercio electrónico flexible, diseñado con Kotlin para Android, que busca transformar cualquier tipo de tienda en una versión digitalizada accesible desde tu teléfono móvil.
 
 ## 🎁 Características de VersaShop
