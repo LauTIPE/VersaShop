@@ -34,7 +34,7 @@
 | 6  | Inclusión digital | 1. Falta de habilidades digitales entre los propietarios de pequeñas empresas. <br> 2. Barreras tecnológicas para las personas mayores o con discapacidades para comprar en línea. <br> 3. Falta de acceso a tecnología para las pequeñas empresas en zonas rurales. |
 
 
-## ¡Echa un vistazo a nuestros diseños y wireframes!
+## ¡Echa un vistazo a nuestros diseños y wireframes!  
 Wireframe en [Figma](./desing.png)!
 ![desing](https://github.com/LauTIPE/VersaShop/assets/92493205/c81c5ad6-c487-4c05-805a-659d12e70a19)
 ![Banner de VersaShop](./Banner.png)
