@@ -91,5 +91,6 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 ## 🤝 Código de Conducta
 Creemos en una comunidad inclusiva y respetuosa. Por eso, esperamos que todos nuestros colaboradores sigan nuestro código de conducta. [Lee más aquí.](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html)
 
-## Puedes encontrar más detalles acerca del diseño y planificación de VersaShop en nuestro [documento de semanal](VersaShop.pdf).
+##  Más información
+Puedes encontrar más detalles acerca del diseño y planificación de VersaShop en nuestro [documento semanal](VersaShop.pdf).
 
