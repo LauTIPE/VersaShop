@@ -1,16 +1,11 @@
-# VersaShop
-VersaShop es una aplicación de comercio electrónico adaptable y genérica, diseñada con Kotlin para Android...
-
-...
-
 # VersaShop 🛍️: ¡Tu tienda favorita en la palma de tu mano! 📱
 
-Story telling:
+## Story telling:
 ¿Eres dueño de un negocio y buscas digitalizar tu tienda? ¿O simplemente un entusiasta del desarrollo Android buscando inspiración? ¡Bienvenido a VersaShop! Este es un proyecto de comercio electrónico flexible, diseñado con Kotlin para Android, que busca transformar cualquier tipo de tienda en una versión digitalizada accesible desde tu teléfono móvil.
 
 ## 🎁 Características de VersaShop
 
-- **Adaptable y chic**: VersaShop te permite darle a tu tienda online el look que siempre soñaste, haciendo que la personalización sea fácil y atractiva.
+- **Sencilla y adaptable**: VersaShop te permite darle a tu tienda online el look que siempre soñaste, haciendo que la personalización sea fácil y atractiva.
 
 - **Poderosa base de datos**: ¿Vendes sushi 🍣 o ropa vintage 👗? No importa, nuestra base de datos está lista para adaptarse a la diversidad de tus productos.
 
@@ -25,6 +20,19 @@ Story telling:
 - **Funcionalidad de chat o soporte al cliente 💬**: Nunca fue tan fácil comunicarse con tus clientes.
 
 - **Notificaciones push 🔔**: Mantén a tus clientes actualizados con las últimas noticias y ofertas.
+
+
+## Cluster de Problematicas 
+
+| N° | Cluster  | Problema |
+|----|--------------|-----------|
+| 1  | Negocios locales | 1. Dificultad de los negocios locales para competir con las grandes tiendas online. <br> 2. Falta de presencia en línea de pequeñas y medianas empresas. <br> 3. Falta de herramientas digitales para gestión de inventario y ventas. |
+| 2  | Consumidores | 1. Falta de acceso a una variedad de productos y servicios locales en línea. <br> 2. Dificultad para descubrir nuevos negocios locales en línea. |
+| 3  | Economía local | 1. Pérdida de ventas en tiendas locales a favor de grandes corporaciones de comercio electrónico. <br> 2. Disminución del empleo en el sector minorista local debido al auge del comercio electrónico. <br> 3. Dificultades para promover y mantener la economía local en la era digital. |
+| 4  | Logística y envío | 1. Dificultades de las pequeñas empresas para gestionar la logística y el envío de productos. <br> 2. Falta de opciones de envío sostenibles y asequibles para pequeñas empresas. |
+| 5  | Sostenibilidad | 1. Mayor impacto medioambiental debido al aumento del comercio electrónico. <br> 2. Falta de opciones de comercio electrónico sostenibles y locales. |
+| 6  | Inclusión digital | 1. Falta de habilidades digitales entre los propietarios de pequeñas empresas. <br> 2. Barreras tecnológicas para las personas mayores o con discapacidades para comprar en línea. <br> 3. Falta de acceso a tecnología para las pequeñas empresas en zonas rurales. |
+
 
 ¡Echa un vistazo a nuestro wireframe en [Figma](./desing.png)!
 ![desing](https://github.com/LauTIPE/VersaShop/assets/92493205/c81c5ad6-c487-4c05-805a-659d12e70a19)
