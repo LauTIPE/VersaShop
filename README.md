@@ -37,7 +37,7 @@
 ## ¡Echa un vistazo a nuestros diseños y wireframes!  
 
 
-![Diseño de VersaShop](./design.png)
+![](./design.png)
 ![desing](https://github.com/LauTIPE/VersaShop/assets/92493205/c81c5ad6-c487-4c05-805a-659d12e70a19)
 ![Banner de VersaShop](./Banner.png)
 <img src="Logo.png" alt="Logo de VersaShop">
